@@ -1,4 +1,7 @@
-Archivito con recursos útiles para empezar en Godot (Aunque vale igual si ya llevas un tiempo, esto es para todos). Aún tengo que añadir muchísimas cosas pero aquí está
+# La Godot Ayuda
+Esta es una paginita rápida con recursos que puedan servir tanto para empezar en Godot, como pasar de Unity a Godot (Principalmente). También habrán recursos generales como Assets y Plugins que yo veo que son buenos y que podrían ayudar. Esto está muy en progreso peero, algo es algo <3
+
+---
 
 ## Unity a Godot
 - Diferencias entre Unity y Godot (Documentación de Godot): https://docs.godotengine.org/en/3.1/getting_started/editor/unity_to_godot.html
